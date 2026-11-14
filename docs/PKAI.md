@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagenes/logo.svg" width="72" alt="PKAI">
+  <img src="imagenes/logo.png" width="84" alt="PKAI">
 </p>
 
 <h1 align="center">PKAI · PC y móvil</h1>

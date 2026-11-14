@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="docs/imagenes/logo.svg" width="96" alt="PKAI">
+  <img src="docs/imagenes/logo-texto.png" width="190" alt="PKAI">
 </p>
-
-<h1 align="center">PKAI</h1>
 
 <p align="center">
   <b>Editor de partidas de Pokémon con asistente</b><br>
