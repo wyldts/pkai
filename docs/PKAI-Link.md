@@ -76,8 +76,9 @@ Después, ábrelo desde el menú HOME.
 ## Conectar con PKAI
 
 1. Abre PKAI Link en la consola. En su pantalla verás la **dirección**, el **puerto** y un **código** de 6 cifras.
-2. En el inicio de PKAI (PC o móvil), pulsa **Switch** o **3DS**. PKAI encuentra la consola sola en tu wifi y pone su dirección: solo tienes que escribir el código y pulsar **Conectar**.
-   * Si no la encuentra (por ejemplo, con PKAI Link 0.2.5 o anterior, o con algunas wifi de invitados), escribe tú la dirección que sale en su pantalla.
+2. En el inicio de PKAI (PC o móvil), pulsa **Switch** o **3DS**. PKAI encuentra la consola sola en tu wifi: elígela y pulsa **Conectar**. No hace falta escribir nada (para conectar, la consola y PKAI tienen que estar en la misma wifi y con PKAI Link abierto).
+   * Con PKAI Link 0.3.2 o anterior, escribe también el código que sale en su pantalla; al conectar, PKAI te ofrece actualizarlo.
+   * Si no la encuentra (por ejemplo, con PKAI Link 0.2.5 o anterior, o con algunas wifi de invitados), escribe tú la dirección y el código que salen en su pantalla.
 3. Verás tus partidas. **Abrir** la trae a PKAI; **Copias…** enseña sus copias de seguridad; **Guardar en…** la copia a una carpeta de tu PC o de tu móvil (la de tu emulador, la de otro editor o la que quieras), con su nombre de siempre (`main`, `partida.sav`…). La partida de la consola no cambia, y si en esa carpeta ya había un archivo con el mismo nombre, se queda como `.anterior`.
 
 <table>
@@ -94,6 +95,14 @@ Después, ábrelo desde el menú HOME.
 3. En la pantalla de cajas, pulsa **Enviar a la Switch** (o **a la 3DS**).
 4. PKAI enseña **qué va a cambiar** en la consola (dinero, Pokémon nuevos, cambiados, movidos, objetos…) y pide confirmación.
 5. PKAI Link guarda una copia de la partida que había, escribe la nueva y PKAI comprueba que ha llegado idéntica. Ya puedes abrir el juego.
+
+### Enviar una partida del PC o del móvil
+
+También puedes llevar a la consola una partida que no abriste desde ella (de tu PC, de tu móvil, de un emulador…):
+
+1. Ábrela en PKAI y pulsa **Enviar a la consola** en la pantalla de cajas (o en **Herramientas**).
+2. Conecta con PKAI Link y elige **qué partida de la consola sustituye** (tiene que ser del mismo juego).
+3. Como siempre, PKAI enseña qué va a cambiar (y te avisa si es de otro entrenador) y la consola guarda una copia de la suya antes de sustituirla.
 
 ## Copias de seguridad
 

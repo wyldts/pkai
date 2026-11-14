@@ -17,9 +17,11 @@
 - 📦 **Ver y ordenar las cajas y el equipo:** mover Pokémon arrastrándolos, marcar varios a la vez, buscar por especie, movimiento, tipo o variocolor, y ordenar por Pokédex, nivel o tipo.
 - ✏️ **Editar cualquier Pokémon:** estadísticas, IV y EV, movimientos, naturaleza, habilidad, objeto, Ball, variocolor, teratipo, encuentro y entrenador.
 - ✅ **Comprobar la legalidad** antes de guardar. Con el «Modo legal», PKAI no deja hacer cambios que lo volverían ilegal.
-- 🎁 **Catálogo de eventos, intercambios y regalos** de todas las generaciones, sin conexión. Cada uno se convierte a tu partida y solo se ofrece si sale legal.
-- 🎒 **Mochila, dinero, tiempo de juego, Pokédex y Living Dex** (rellenar las que faltan con Pokémon legales).
-- 🏅 **Progreso de la partida:** medallas, legendarios (hacerlos volver para capturarlos otra vez), Pokémon errantes y guardería.
+- 🎁 **Catálogo de eventos, intercambios y regalos** de todas las generaciones, sin conexión. Cada uno se convierte a tu partida y solo se ofrece si sale legal. **Se actualiza solo:** cuando salen eventos nuevos, PKAI los descarga al abrirse (de Project Pokémon), sin esperar a otra versión.
+- 🎒 **Mochila, dinero, tiempo de juego, Pokédex y Living Dex:** rellena con Pokémon legales las especies que faltan, sus variocolores o **todas las formas** (las letras de Unown, los diseños de Vivillon, las formas regionales…).
+- 🏅 **Progreso de la partida:** medallas, **volver a enfrentar legendarios** que ya capturaste o derrotaste, Pokémon errantes y guardería.
+- 📤 **Compartir un Pokémon con un QR o un código:** quien lo recibe lo pega en su PKAI, que lo pasa a su juego si se puede y comprueba que sea legal.
+- 🌗 **Tema oscuro, claro o automático** (el del sistema).
 - 🔍 **Comparar dos versiones de una partida:** qué ha cambiado desde una copia de seguridad o desde que la abriste.
 - 🤖 **El asistente:** le pides las cosas con tus palabras y las hace él (ver [El asistente](#el-asistente)).
 - 🎮 **Partidas de la consola por wifi** con [PKAI Link](PKAI-Link.md).
@@ -35,6 +37,13 @@
   <tr>
     <td width="50%"><img src="imagenes/pkai-editor.png" alt="El editor de un Pokémon"><br><sub>El editor: estadísticas, movimientos, encuentro, legalidad…</sub></td>
     <td width="50%"><img src="imagenes/pkai-asistente.png" alt="El asistente creando un Pokémon"><br><sub>El asistente crea un Charizard variocolor legal y lo añade.</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%"><img src="imagenes/pkai-compartir.png" alt="Compartir un Pokémon con un QR"><br><sub>Compartir un Pokémon con un QR o un código.</sub></td>
+    <td width="50%"><img src="imagenes/pkai-cajas-claro.png" alt="Las cajas con el tema claro"><br><sub>El tema claro (en el inicio o en «Herramientas → Tema»).</sub></td>
   </tr>
 </table>
 
@@ -90,6 +99,9 @@ Las partidas tienen que estar descifradas, como las sacan los gestores de partid
 - **Cambiar de caja:** las flechas de arriba (o **Q** y **E**). En el móvil, también deslizando la caja con el dedo hacia un lado.
 - **Buscar:** la lupa (o **F**) atenúa los que no cumplen y te lleva de un resultado a otro.
 - Toca el nombre de la caja para cambiarle el **nombre y el fondo**, como en el juego.
+- **Compartir:** elige un Pokémon y pulsa **Herramientas → Compartir el Pokémon elegido…**. Sale un **QR** y el mismo **código** en texto (empieza por `PKAI1.`) para mandarlo por un chat o guardarlo como imagen.
+- **Recibir:** **Herramientas → Recibir un Pokémon…** y pega el código (si te han mandado un QR, escanéalo con la cámara del móvil: el texto que sale es el código). PKAI lo pasa a tu juego si se puede, te dice si es legal y no deja añadir una copia de un Pokémon que ya tienes.
+- **Volver a enfrentar legendarios:** **Herramientas → Volver a enfrentar legendarios** enseña los que ya capturaste o derrotaste y los hace volver a aparecer en el juego.
 
 ### 3. Editar un Pokémon
 El editor tiene pestañas: **Estadísticas**, **Movimientos**, **Principal**, **Encuentro**, **Cosmético**, **Entrenador** y **Legalidad**.
@@ -102,12 +114,12 @@ El editor tiene pestañas: **Estadísticas**, **Movimientos**, **Principal**, **
   - Si añades muchos Pokémon (por ejemplo, al rellenar la Living Dex) o abres una partida con muchos Pokémon y casi sin tiempo de juego, PKAI sube el **tiempo de juego** para que encaje y te lo dice. Nunca lo baja; si lo cambias a mano en «Mochila» → «Entrenador», se respeta.
   - En Escarlata/Púrpura, Leyendas Arceus y Z-A, si añades un Pokémon de evento recibido antes de que empezara tu partida, PKAI te avisa antes y adelanta la **fecha de inicio** de la partida. Los que vienen de otros juegos no la cambian.
   - Todo se deshace con **Ctrl+Z**, junto con el cambio que lo provocó.
-- **Antes de tocar una partida, PKAI guarda una copia de seguridad.** Las tienes en el inicio, en **Ver copias**.
+- **Antes de tocar una partida, PKAI guarda una copia de seguridad.** Las tienes en el inicio, en **Ver copias**: en la carpeta `backups`, una carpeta por juego, y cada copia con la fecha, el entrenador y el nombre del archivo (`2026-11-14 12-30-05 - ROJO - main`), así se ordenan solas.
 - **Herramientas → Comparar cambios…** enseña qué ha cambiado: el dinero, los Pokémon nuevos, los cambiados (y si siguen siendo legales), los movidos, la mochila…
 
 ### 5. Llevarla a la consola
 - Si la abriste desde la Switch o la 3DS, pulsa **Enviar a la Switch** (o a la 3DS) en la pantalla de cajas. PKAI te enseña antes qué va a cambiar en la consola.
-- Si no, cópiala a la consola con tu gestor de partidas, como siempre.
+- Si la abriste desde el PC o el móvil, pulsa **Enviar a la consola**: conectas con [PKAI Link](PKAI-Link.md) y eliges qué partida de la consola sustituye (del mismo juego). La consola guarda antes una copia de la suya.
 
 ## El asistente
 
@@ -120,11 +132,16 @@ Pulsa **Asistente** en la pantalla de cajas y escríbele (o díctale con el micr
 | «Arregla los ilegales de la caja 1» | Los legaliza, si se puede. |
 | «Prepara a Garchomp para competitivo» | Naturaleza, IV, EV, movimientos y objeto. |
 | «Añade todos los Pokémon de intercambio y de regalo desde la caja 10» | Los pone uno de cada en los huecos libres (solo si caben todos). |
+| «Añádeme todos los Pikachu de evento» · «todos los eventos de Mew» | Los añade de una vez, uno de cada evento, en los huecos libres. |
+| «Rellena la Living Dex de formas» | Crea legales todas las formas que faltan, de una vez. |
+| «Quiero volver a enfrentarme a Mewtwo» | Lo hace volver a aparecer en el juego. |
+| «Dame el código para compartir mi Lucario» · «Añade este Pokémon: PKAI1.…» | Te da el código, o lo lee, lo pasa a tu juego y lo añade si es legal. |
 | «Dame 99 caramelos raros» · «Ponme 100000 de dinero» | Lo hace al momento. |
 | «¿Qué he cambiado?» | Compara con lo que había al abrir la partida. |
 | «Ordena las cajas por número de Pokédex» | Las ordena. |
 | «Junta mis Pokémon para que no queden huecos, menos la caja de los Unown» | Los junta desde la primera caja sin tocar las cajas que le digas. |
 
+- Lo grande lo hace de golpe: cientos de Pokémon en un solo paso y peticiones con varias cosas seguidas («rellena la Living Dex, añade los eventos de Mew y ordénalo todo»). Si algo no se puede (por ejemplo, no cabe), hace lo demás y te dice qué ha faltado.
 - Antes de hacer algo que cambia muchos Pokémon de golpe, o que los dejaría ilegales, te pide que lo confirmes.
 - Antes de liberar, te enseña las tarjetas de los Pokémon y espera tu «sí».
 - Solo habla de Pokémon y de tu partida.

@@ -24,9 +24,12 @@
 PKAI abre partidas de Pokémon de **todas las generaciones**, de Rojo y Azul a Leyendas Z-A, y te deja editarlas sin miedo:
 - enseña las cajas y el equipo;
 - edita cualquier Pokémon y comprueba que es **legal** antes de guardar;
-- guarda una copia de seguridad antes de tocar nada.
+- guarda una copia de seguridad antes de tocar nada;
+- comparte tus Pokémon con otros usuarios con un **QR o un código**.
 
-Y si prefieres pedirlo con tus palabras, tiene un **asistente**: «añade un Charizard variocolor legal», «¿qué Pokémon ilegales tengo?», «dame 99 caramelos raros».
+Y si prefieres pedirlo con tus palabras, tiene un **asistente**: «añade un Charizard variocolor legal», «añádeme todos los Pikachu de evento», «¿qué Pokémon ilegales tengo?», «dame 99 caramelos raros».
+
+Con tema **oscuro o claro**, en español, inglés e italiano.
 
 ---
 
