@@ -101,7 +101,7 @@ El editor tiene pestañas: **Estadísticas**, **Movimientos**, **Principal**, **
 
 ## El asistente
 
-Pulsa **Asistente** en la pantalla de cajas y escríbele (o díctale con el micrófono). Tiene las mismas herramientas que tú y las usa por ti:
+Pulsa **Asistente** en la pantalla de cajas y escríbele (o díctale con el micrófono: lo pasa a texto el reconocimiento de voz de tu móvil o de Windows; en Windows hacen falta el idioma de voz instalado y «Reconocimiento de voz en línea» activado). Tiene las mismas herramientas que tú y las usa por ti:
 
 | Le dices | Hace |
 |---|---|
