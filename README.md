@@ -79,7 +79,7 @@ Todo está en **[la última versión](https://github.com/wyldts/pkai/releases/la
 
 ## Créditos
 
-**PKAI está creado por Wyld.**
+**Creado, diseñado y probado por Wyld**: PKAI, PKAI Móvil y PKAI Link para Switch y 3DS.
 
 Se basa en [PKHeX](https://github.com/kwsch/PKHeX), de Kaphotics y colaboradores, y se distribuye con la misma licencia, [GPL-3.0 o posterior](https://www.gnu.org/licenses/gpl-3.0.html), sin ninguna garantía.
 
