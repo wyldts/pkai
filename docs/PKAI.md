@@ -74,6 +74,11 @@ Las dos necesitan WebView2 de Microsoft, que ya viene con Windows 11. En Windows
 ### 1. Abrir una partida
 - **Abrir partida…** y elige el archivo: `main`, `.sav`, `.dsv`, `.dat`, `.gci`, `.bin`…
 - O pulsa **Switch** o **3DS** para traerla de la consola por wifi (con [PKAI Link](PKAI-Link.md)).
+- O, si juegas con emuladores, mírala en **En tus emuladores**, en el inicio: PKAI encuentra solas sus partidas.
+  - En el PC, las de Azahar, Lime3DS y Citra (3DS); Ryujinx, Eden, Citron, Sudachi, Suyu y yuzu (Switch); Dolphin (GameCube y Wii); RetroArch; y mGBA, melonDS y VisualBoyAdvance-M (junto a sus ROM recientes).
+  - En el móvil, Android no deja mirar las carpetas de otras apps: elige una vez la carpeta de tus emuladores (la de RetroArch, DraStic, Azahar…) y PKAI buscará ahí cada vez.
+  - Con **Buscar en otra carpeta…** añades cualquier otra carpeta.
+  - Cierra el emulador antes de guardar en PKAI: si sigue abierto, al guardar él borraría tus cambios.
 - Las partidas que abras salen después en **Recientes**, con la carátula de su juego.
 
 Las partidas tienen que estar descifradas, como las sacan los gestores de partidas (Checkpoint, JKSV, JKSM…) o PKAI Link.
@@ -82,6 +87,7 @@ Las partidas tienen que estar descifradas, como las sacan los gestores de partid
 - Un clic elige un Pokémon y lo enseña a la derecha, con su legalidad. Doble clic (o **Enter**) lo edita. En un hueco vacío, **Enter** añade uno nuevo.
 - **Mover:** arrástralo a otro hueco, a otra caja (déjalo un momento sobre las flechas) o al equipo. También con **M** y un clic en el destino.
 - **Marcar varios:** clic derecho, Ctrl + clic o **Espacio**. En el móvil, mantén pulsado. Con varios marcados puedes moverlos, liberarlos, exportarlos o cambiarlos todos de una vez.
+- **Cambiar de caja:** las flechas de arriba (o **Q** y **E**). En el móvil, también deslizando la caja con el dedo hacia un lado.
 - **Buscar:** la lupa (o **F**) atenúa los que no cumplen y te lleva de un resultado a otro.
 - Toca el nombre de la caja para cambiarle el **nombre y el fondo**, como en el juego.
 
