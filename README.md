@@ -77,7 +77,9 @@ Todo está en **[la última versión](https://github.com/wyldts/pkai/releases/la
 
 ## Apoyar el proyecto
 
-PKAI es gratis y lo seguirá siendo. El asistente también, pero mantenerlo cuesta dinero: cada pregunta se paga al servicio de inteligencia artificial, y por eso tiene un límite de preguntas al día entre todos. Si quieres apoyar el proyecto para que haya más, puedes hacer una donación desde **Apoyar PKAI**, en el inicio de la app o en el asistente. Es totalmente voluntario.
+PKAI es gratis y lo seguirá siendo. El asistente también, pero mantenerlo cuesta dinero: cada pregunta se paga al servicio de inteligencia artificial, y por eso tiene un límite de preguntas al día entre todos. Si quieres apoyar el proyecto para que haya más, podrás hacer una donación desde **Apoyar PKAI**, en el inicio de la app o en el asistente. Es totalmente voluntario.
+
+> **Por el momento, las donaciones no están disponibles.** Cuando lo estén, el botón de la app funcionará solo, sin tener que actualizar.
 
 ---
 
