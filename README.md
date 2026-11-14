@@ -60,7 +60,8 @@ Todo está en **[la última versión](https://github.com/wyldts/pkai/releases/la
 | `PKAI-PC-<versión>-Instalador.exe` | Windows 10 y 11 | Ábrelo y pulsa «Instalar». No hace falta ser administrador. |
 | `PKAI-Movil-<versión>.apk` | Android | Ábrelo en el móvil. Android pide permiso para instalar apps de fuera de la Play Store. |
 | `PKAI-Link-Switch-<versión>.nro` | Switch con homebrew | Cópialo a la SD como `switch/pkai-link.nro`. |
-| `PKAI-Link-3DS-<versión>.3dsx` | 3DS con homebrew | Cópialo a la SD como `3ds/pkai-link.3dsx`. |
+| `PKAI-Link-3DS-<versión>.cia` | 3DS con homebrew | Instálalo con FBI (también con [su código QR](docs/PKAI-Link.md#nintendo-3ds-en-el-menú-home-recomendado)): sale en el menú HOME. |
+| `PKAI-Link-3DS-<versión>.3dsx` | 3DS con homebrew | O cópialo a la SD como `3ds/pkai-link.3dsx` para el Homebrew Launcher. |
 
 ## Actualizaciones
 

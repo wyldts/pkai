@@ -47,15 +47,31 @@ Los juegos de DS no se pueden leer desde PKAI Link.
 
 ## Instalar
 
-1. Descarga el archivo de tu consola de [la última versión](https://github.com/wyldts/pkai/releases/latest).
-2. Cópialo a la tarjeta SD:
-   - **Switch:** `switch/pkai-link.nro`
-   - **3DS:** `3ds/pkai-link.3dsx`
-3. Ábrelo:
-   - **Switch:** desde el menú de homebrew (mantén pulsado R al abrir cualquier juego; desde el Álbum también funciona).
-   - **3DS:** desde el Homebrew Launcher.
+### Nintendo Switch
+1. Descarga `PKAI-Link-Switch-<versión>.nro` de [la última versión](https://github.com/wyldts/pkai/releases/latest).
+2. Cópialo a la tarjeta SD como `switch/pkai-link.nro`.
+3. Ábrelo desde el menú de homebrew (mantén pulsado R al abrir cualquier juego; desde el Álbum también funciona).
 
-Tiene que abrirse desde ahí para poder actualizarse solo después.
+### Nintendo 3DS: en el menú HOME (recomendado)
+
+PKAI Link se instala como una aplicación más y sale en el menú HOME con su icono.
+
+<table>
+  <tr>
+    <td width="180" align="center"><img src="imagenes/qr-pkai-link-3ds.png" width="160" alt="Código QR de PKAI Link para FBI"></td>
+    <td>
+      <b>Con el código QR:</b> abre <b>FBI</b> → <b>Remote Install</b> → <b>Scan QR Code</b> y apunta la cámara a este código. FBI descarga e instala siempre la última versión.<br><br>
+      <b>O desde la tarjeta SD:</b> copia <code>PKAI-Link-3DS-&lt;versión&gt;.cia</code> a la SD y, en FBI, <b>SD</b> → el archivo → <b>Install CIA</b>.
+    </td>
+  </tr>
+</table>
+
+Después, ábrelo desde el menú HOME.
+
+### Nintendo 3DS: en el Homebrew Launcher
+1. Descarga `PKAI-Link-3DS-<versión>.3dsx`.
+2. Cópialo a la tarjeta SD como `3ds/pkai-link.3dsx`.
+3. Ábrelo desde el Homebrew Launcher (tiene que abrirse desde ahí para poder actualizarse solo después).
 
 ## Conectar con PKAI
 
@@ -122,7 +138,7 @@ PKAI Link de Switch encuentra solo las partidas de **Dekopon** (`sdmc:/switch/de
 
 Al conectar la consola, si hay una versión nueva, PKAI enseña **Actualizar PKAI Link**: la descarga de aquí y se la envía a la consola.
 - La **Switch** se cierra y se vuelve a abrir sola con la versión nueva.
-- En la **3DS**, pulsa START para salir y vuelve a abrirlo desde el Homebrew Launcher.
+- En la **3DS**, pulsa START para salir y vuelve a abrirlo (desde el menú HOME o el Homebrew Launcher, según cómo lo instalaras). Instalado en el menú HOME, PKAI Link instala la versión nueva él mismo, como FBI.
 - Las versiones anteriores a la 0.2.2 se actualizan una vez copiando el archivo a mano.
 
 ## Botones
