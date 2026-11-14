@@ -17,11 +17,12 @@
 - 📦 **Ver y ordenar las cajas y el equipo:** mover Pokémon arrastrándolos, marcar varios a la vez, buscar por especie, movimiento, tipo o variocolor, y ordenar por Pokédex, nivel o tipo.
 - ✏️ **Editar cualquier Pokémon:** estadísticas, IV y EV, movimientos, naturaleza, habilidad, objeto, Ball, variocolor, teratipo, encuentro y entrenador.
 - ✅ **Comprobar la legalidad** antes de guardar. Con el «Modo legal», PKAI no deja hacer cambios que lo volverían ilegal.
-- 🎁 **Catálogo de eventos, intercambios y regalos** de todas las generaciones, sin conexión. Cada uno se convierte a tu partida y solo se ofrece si sale legal. **Se actualiza solo:** cuando salen eventos nuevos, PKAI los descarga al abrirse (de Project Pokémon), sin esperar a otra versión.
+- 🎁 **Catálogo de eventos, intercambios y regalos** de todas las generaciones, sin conexión. Cada uno se convierte a tu partida y solo se ofrece si sale legal. Con **Añadir todos** pones de una vez todos los de tu búsqueda, seguidos y sin repetir los que ya tienes. **Se actualiza solo:** cuando salen eventos nuevos, PKAI los descarga al abrirse (de Project Pokémon), sin esperar a otra versión.
 - 🎒 **Mochila, dinero, tiempo de juego, Pokédex y Living Dex:** rellena con Pokémon legales las especies que faltan, sus variocolores o **todas las formas** (las letras de Unown, los diseños de Vivillon, las formas regionales…).
 - 🏅 **Progreso de la partida:** medallas, **volver a enfrentar legendarios** que ya capturaste o derrotaste, Pokémon errantes y guardería.
 - 📤 **Compartir un Pokémon con un QR o un código:** quien lo recibe lo pega en su PKAI, que lo pasa a su juego si se puede y comprueba que sea legal.
 - 🌗 **Tema oscuro, claro o automático** (el del sistema).
+- 🧰 **Sin conexión, en Herramientas:** juntar los Pokémon sin huecos (sin tocar las cajas que elijas), cambiar muchos a la vez (nivel, amistad al máximo, quitar objetos o motes) y ver **dónde se consigue** cada especie en tu juego.
 - 🔍 **Comparar dos versiones de una partida:** qué ha cambiado desde una copia de seguridad o desde que la abriste.
 - 🤖 **El asistente:** le pides las cosas con tus palabras y las hace él (ver [El asistente](#el-asistente)).
 - 🎮 **Partidas de la consola por wifi** con [PKAI Link](PKAI-Link.md).
