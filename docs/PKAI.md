@@ -48,11 +48,22 @@
 ## Instalar
 
 ### Windows
+
+Hay dos versiones, con las mismas funciones. Elige la que prefieras:
+
+**Con instalador**
 1. Descarga `PKAI-PC-<versión>-Instalador.exe` de [la última versión](https://github.com/wyldts/pkai/releases/latest).
 2. Ábrelo y pulsa **Instalar**. Se instala en tu usuario, sin ser administrador, con un acceso en el menú Inicio (y, si quieres, en el escritorio).
 3. Para desinstalarlo: Configuración de Windows → Aplicaciones instaladas → PKAI.
 
-Necesita WebView2 de Microsoft, que ya viene con Windows 11. En Windows 10, el instalador avisa si falta.
+**Portable (sin instalar)**
+1. Descarga `PKAI-PC-<versión>-Portable.zip` de [la última versión](https://github.com/wyldts/pkai/releases/latest).
+2. Descomprímelo donde quieras: en Documentos, en otra unidad o en un USB. Sale una carpeta `PKAI`.
+3. Abre `PKAI.exe` de esa carpeta. No crea accesos directos ni toca el registro de Windows.
+4. Todo lo suyo (partidas recientes, copias de seguridad y ajustes) se guarda en la carpeta `Datos`, junto al programa. Puedes mover la carpeta `PKAI` entera a otro sitio, y para quitarlo basta con borrarla.
+5. Se actualiza igual que la otra, con **Actualizar**, y conserva la carpeta `Datos`. No borres el archivo `portable.txt`: es el que le dice que es la portable.
+
+Las dos necesitan WebView2 de Microsoft, que ya viene con Windows 11. En Windows 10, el instalador avisa si falta; si usas la portable y PKAI no se abre, instálalo desde [la página de Microsoft](https://developer.microsoft.com/microsoft-edge/webview2/).
 
 ### Android
 1. Descarga `PKAI-Movil-<versión>.apk` en el móvil.

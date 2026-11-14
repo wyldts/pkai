@@ -58,6 +58,7 @@ Todo está en **[la última versión](https://github.com/wyldts/pkai/releases/la
 | Archivo | Para | Cómo se instala |
 |---|---|---|
 | `PKAI-PC-<versión>-Instalador.exe` | Windows 10 y 11 | Ábrelo y pulsa «Instalar». No hace falta ser administrador. |
+| `PKAI-PC-<versión>-Portable.zip` | Windows 10 y 11, sin instalar | Descomprímelo donde quieras (también en un USB) y abre `PKAI.exe`. Guarda todo en su carpeta. |
 | `PKAI-Movil-<versión>.apk` | Android | Ábrelo en el móvil. Android pide permiso para instalar apps de fuera de la Play Store. |
 | `PKAI-Link-Switch-<versión>.nro` | Switch con homebrew | Cópialo a la SD como `switch/pkai-link.nro`. |
 | `PKAI-Link-3DS-<versión>.cia` | 3DS con homebrew | Instálalo con FBI (también con [su código QR](docs/PKAI-Link.md#nintendo-3ds-en-el-menú-home-recomendado)): sale en el menú HOME. |
@@ -65,7 +66,7 @@ Todo está en **[la última versión](https://github.com/wyldts/pkai/releases/la
 
 ## Actualizaciones
 
-- **PC y móvil:** cuando hay una versión nueva, el inicio de PKAI enseña el botón **Actualizar**. Se descarga y se instala dentro de la app, sin perder nada; en el PC, PKAI se cierra y se vuelve a abrir sola.
+- **PC y móvil:** cuando hay una versión nueva, el inicio de PKAI enseña el botón **Actualizar**. Se descarga y se instala dentro de la app, sin perder nada; en el PC, PKAI se cierra y se vuelve a abrir sola (también la portable, que se actualiza en su carpeta).
 - **PKAI Link:** al conectar la consola, PKAI te ofrece la versión nueva y se la envía. La Switch se vuelve a abrir sola; en la 3DS, ciérralo y vuelve a abrirlo.
 
 ## Antes de empezar
