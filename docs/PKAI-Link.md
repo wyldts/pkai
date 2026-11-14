@@ -78,12 +78,12 @@ Después, ábrelo desde el menú HOME.
 1. Abre PKAI Link en la consola. En su pantalla verás la **dirección**, el **puerto** y un **código** de 6 cifras.
 2. En el inicio de PKAI (PC o móvil), pulsa **Switch** o **3DS**. PKAI encuentra la consola sola en tu wifi y pone su dirección: solo tienes que escribir el código y pulsar **Conectar**.
    * Si no la encuentra (por ejemplo, con PKAI Link 0.2.5 o anterior, o con algunas wifi de invitados), escribe tú la dirección que sale en su pantalla.
-3. Verás tus partidas. **Abrir** la trae a PKAI; **Copias…** enseña sus copias de seguridad.
+3. Verás tus partidas. **Abrir** la trae a PKAI; **Copias…** enseña sus copias de seguridad; **Guardar en…** la copia a una carpeta de tu PC o de tu móvil (la de tu emulador, la de otro editor o la que quieras), con su nombre de siempre (`main`, `partida.sav`…). La partida de la consola no cambia, y si en esa carpeta ya había un archivo con el mismo nombre, se queda como `.anterior`.
 
 <table>
   <tr>
     <td width="50%"><img src="imagenes/pkai-consola.png" alt="Las partidas de la consola en PKAI"><br><sub>Las partidas de la consola, vistas desde PKAI.</sub></td>
-    <td width="50%"><img src="imagenes/pkai-consola-copias.png" alt="Las copias de una partida en PKAI"><br><sub>Abrir la partida actual o una copia, comparar y restaurar.</sub></td>
+    <td width="50%"><img src="imagenes/pkai-consola-copias.png" alt="Las copias de una partida en PKAI"><br><sub>Abrir la partida actual o una copia, comparar, restaurar o guardarla en una carpeta.</sub></td>
   </tr>
 </table>
 
@@ -110,7 +110,7 @@ sdmc:/PKAI/
 
 - En la Switch, cada copia lleva delante el **usuario** de la consola; en la 3DS, la del cartucho lleva «Cartucho - ».
 - Detrás va la fecha y, si se lo pusiste, su nombre.
-- Desde PKAI puedes **abrir** cualquier copia, **compararla** con la partida actual o **restaurarla** en la consola (antes se guarda una copia de la actual).
+- Desde PKAI puedes **abrir** cualquier copia, **compararla** con la partida actual, **restaurarla** en la consola (antes se guarda una copia de la actual) o **guardarla** en una carpeta de tu PC o de tu móvil.
 
 <table>
   <tr>
