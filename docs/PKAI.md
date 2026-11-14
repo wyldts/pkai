@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="imagenes/pkai-inicio.png" alt="El inicio de PKAI"><br><sub>El inicio: abre una partida del equipo o de la consola.</sub></td>
+    <td width="50%"><img src="imagenes/pkai-inicio.png" alt="El inicio de PKAI"><br><sub>El inicio: abre una partida del equipo, de la Switch o de la 3DS.</sub></td>
     <td width="50%"><img src="imagenes/pkai-cajas.png" alt="Las cajas"><br><sub>Las cajas, el equipo y el Pokémon elegido, con su legalidad.</sub></td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ Las dos necesitan WebView2 de Microsoft, que ya viene con Windows 11. En Windows
 
 ### 1. Abrir una partida
 - **Abrir partida…** y elige el archivo: `main`, `.sav`, `.dsv`, `.dat`, `.gci`, `.bin`…
-- O **Abrir desde la Switch o la 3DS…** para traerla de la consola por wifi (con [PKAI Link](PKAI-Link.md)).
+- O pulsa **Switch** o **3DS** para traerla de la consola por wifi (con [PKAI Link](PKAI-Link.md)).
 - Las partidas que abras salen después en **Recientes**, con la carátula de su juego.
 
 Las partidas tienen que estar descifradas, como las sacan los gestores de partidas (Checkpoint, JKSV, JKSM…) o PKAI Link.

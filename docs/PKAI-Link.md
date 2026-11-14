@@ -76,7 +76,7 @@ Después, ábrelo desde el menú HOME.
 ## Conectar con PKAI
 
 1. Abre PKAI Link en la consola. En su pantalla verás la **dirección**, el **puerto** y un **código** de 6 cifras.
-2. En PKAI (PC o móvil): **Abrir desde la Switch o la 3DS…**, escribe la dirección y el código y pulsa **Conectar**.
+2. En el inicio de PKAI (PC o móvil), pulsa **Switch** o **3DS**, escribe la dirección y el código y pulsa **Conectar**.
 3. Verás tus partidas. **Abrir** la trae a PKAI; **Copias…** enseña sus copias de seguridad.
 
 <table>
