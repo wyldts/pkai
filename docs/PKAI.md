@@ -98,6 +98,10 @@ El editor tiene pestañas: **Estadísticas**, **Movimientos**, **Principal**, **
 
 ### 4. Guardar y copias de seguridad
 - **Guardar** (o **Ctrl+S**) escribe la partida. Hasta entonces, todo se deshace con **Ctrl+Z**.
+- **La partida sigue siendo creíble sola:**
+  - Si añades muchos Pokémon (por ejemplo, al rellenar la Living Dex) o abres una partida con muchos Pokémon y casi sin tiempo de juego, PKAI sube el **tiempo de juego** para que encaje y te lo dice. Nunca lo baja; si lo cambias a mano en «Mochila» → «Entrenador», se respeta.
+  - En Escarlata/Púrpura, Leyendas Arceus y Z-A, si añades un Pokémon de evento recibido antes de que empezara tu partida, PKAI te avisa antes y adelanta la **fecha de inicio** de la partida. Los que vienen de otros juegos no la cambian.
+  - Todo se deshace con **Ctrl+Z**, junto con el cambio que lo provocó.
 - **Antes de tocar una partida, PKAI guarda una copia de seguridad.** Las tienes en el inicio, en **Ver copias**.
 - **Herramientas → Comparar cambios…** enseña qué ha cambiado: el dinero, los Pokémon nuevos, los cambiados (y si siguen siendo legales), los movidos, la mochila…
 
@@ -119,6 +123,7 @@ Pulsa **Asistente** en la pantalla de cajas y escríbele (o díctale con el micr
 | «Dame 99 caramelos raros» · «Ponme 100000 de dinero» | Lo hace al momento. |
 | «¿Qué he cambiado?» | Compara con lo que había al abrir la partida. |
 | «Ordena las cajas por número de Pokédex» | Las ordena. |
+| «Junta mis Pokémon para que no queden huecos, menos la caja de los Unown» | Los junta desde la primera caja sin tocar las cajas que le digas. |
 
 - Antes de hacer algo que cambia muchos Pokémon de golpe, o que los dejaría ilegales, te pide que lo confirmes.
 - Antes de liberar, te enseña las tarjetas de los Pokémon y espera tu «sí».
@@ -168,6 +173,9 @@ Se crean desde encuentros, eventos e intercambios reales de cada juego y se comp
 
 **¿Cuesta algo?**
 No. PKAI es gratis y lo seguirá siendo, asistente incluido. Las donaciones (todavía no disponibles) serán voluntarias y servirán para pagar el asistente.
+
+**¿Por qué no se abre mi partida de 3DS?**
+Si nunca se ha guardado en el juego (o el juego la ha vuelto a crear porque estaba dañada), no tiene nada que abrir: PKAI te dice qué le falta (nombre de entrenador, Pokémon, tiempo de juego…). Juega hasta tener tu primer Pokémon, guarda y vuelve a probar.
 
 **¿Necesito internet?**
 Solo para el asistente y para ver si hay una versión nueva. Abrir, editar y guardar funciona sin conexión.
