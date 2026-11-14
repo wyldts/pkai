@@ -140,7 +140,7 @@ PKAI Link de Switch encuentra solo las partidas de **Dekopon** (`sdmc:/switch/de
 Al conectar la consola, si hay una versión nueva, PKAI enseña **Actualizar PKAI Link**: la descarga de aquí y se la envía a la consola.
 - La **Switch** se cierra y se vuelve a abrir sola con la versión nueva.
 - En la **3DS**, pulsa START para salir y vuelve a abrirlo (desde el menú HOME o el Homebrew Launcher, según cómo lo instalaras). Instalado en el menú HOME, PKAI Link instala la versión nueva él mismo, como FBI.
-- Las versiones anteriores a la 0.2.2 se actualizan una vez copiando el archivo a mano.
+- Las versiones anteriores a la 0.2.2 se actualizan una vez copiando el archivo a mano. En la **3DS**, también las anteriores a la 0.2.9: en una 3DS de verdad no podían recibir archivos (por eso salía «La consola no ha abierto la conexión de datos» al abrir una partida).
 
 ## Botones
 

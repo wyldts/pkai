@@ -75,6 +75,10 @@ Todo está en **[la última versión](https://github.com/wyldts/pkai/releases/la
 - No uses Pokémon modificados en combates ni intercambios con quien no sepa que lo están.
 - Usar homebrew en la consola puede hacer que Nintendo la vete en línea.
 
+## Apoyar el proyecto
+
+PKAI es gratis y lo seguirá siendo. El asistente también, pero mantenerlo cuesta dinero: cada pregunta se paga al servicio de inteligencia artificial, y por eso tiene un límite de preguntas al día entre todos. Si quieres apoyar el proyecto para que haya más, puedes hacer una donación desde **Apoyar PKAI**, en el inicio de la app o en el asistente. Es totalmente voluntario.
+
 ---
 
 ## Créditos

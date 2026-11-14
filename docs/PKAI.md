@@ -123,7 +123,8 @@ Pulsa **Asistente** en la pantalla de cajas y escríbele (o díctale con el micr
 - Antes de hacer algo que cambia muchos Pokémon de golpe, o que los dejaría ilegales, te pide que lo confirmes.
 - Antes de liberar, te enseña las tarjetas de los Pokémon y espera tu «sí».
 - Solo habla de Pokémon y de tu partida.
-- Necesita internet y tiene un **límite de uso al día**. Todo lo demás de PKAI funciona sin conexión.
+- Necesita internet y tiene un **límite de uso al día** entre todos. Todo lo demás de PKAI funciona sin conexión.
+- Es gratis, pero mantenerlo cuesta dinero: cada pregunta se paga al servicio de inteligencia artificial. Si quieres que haya más preguntas cada día, puedes apoyar el proyecto con una donación desde **Apoyar PKAI** (en el inicio y en el asistente). Es totalmente voluntario.
 
 ## Atajos de teclado
 
@@ -164,6 +165,9 @@ PKAI guarda una copia antes de tocarla, y todo se deshace con Ctrl+Z hasta que g
 
 **¿Los Pokémon que crea son legales?**
 Se crean desde encuentros, eventos e intercambios reales de cada juego y se comprueban antes de añadirlos. Si algo no puede ser legal en tu juego, PKAI lo dice con el motivo.
+
+**¿Cuesta algo?**
+No. PKAI es gratis y lo seguirá siendo, asistente incluido. Las donaciones son voluntarias y sirven para pagar el asistente.
 
 **¿Necesito internet?**
 Solo para el asistente y para ver si hay una versión nueva. Abrir, editar y guardar funciona sin conexión.
