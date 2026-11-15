@@ -89,7 +89,7 @@ Las dos necesitan WebView2 de Microsoft, que ya viene con Windows 11. En Windows
   - En el móvil, Android no deja mirar las carpetas de otras apps: elige una vez la carpeta de tus emuladores (la de RetroArch, DraStic, Azahar…) y PKAI buscará ahí cada vez.
   - Con **Buscar en otra carpeta…** añades cualquier otra carpeta.
   - Cierra el emulador antes de guardar en PKAI: si sigue abierto, al guardar él borraría tus cambios.
-- Las partidas que abras salen después en **Recientes**, con la carátula de su juego.
+- Las partidas que abras salen después en **Recientes**, con la carátula de su juego. La **×** de cada una la quita de la lista (el archivo no se borra).
 
 Las partidas tienen que estar descifradas, como las sacan los gestores de partidas (Checkpoint, JKSV, JKSM…) o PKAI Link.
 
@@ -110,7 +110,7 @@ El editor tiene pestañas: **Estadísticas**, **Movimientos**, **Principal**, **
 - La pestaña **Legalidad** dice qué falla y por qué, con arreglos automáticos cuando los hay, y **Rehacer legal**, que lo vuelve a crear legal conservando todo lo posible.
 
 ### 4. Guardar y copias de seguridad
-- **Guardar** (o **Ctrl+S**) escribe la partida. Hasta entonces, todo se deshace con **Ctrl+Z**.
+- **Guardar** (o **Ctrl+S**) escribe la partida. Hasta entonces, todo se deshace con **Ctrl+Z** (o el botón de deshacer) y lo deshecho se vuelve a hacer con **Ctrl+Y** (o el botón de rehacer).
 - **La partida sigue siendo creíble sola:**
   - Si añades muchos Pokémon (por ejemplo, al rellenar la Living Dex) o abres una partida con muchos Pokémon y casi sin tiempo de juego, PKAI sube el **tiempo de juego** para que encaje y te lo dice. Nunca lo baja; si lo cambias a mano en «Mochila» → «Entrenador», se respeta.
   - En Escarlata/Púrpura, Leyendas Arceus y Z-A, si añades un Pokémon de evento recibido antes de que empezara tu partida, PKAI te avisa antes y adelanta la **fecha de inicio** de la partida. Los que vienen de otros juegos no la cambian.
@@ -161,6 +161,7 @@ Pulsa **Asistente** en la pantalla de cajas y escríbele (o díctale con el micr
 | **X** | Herramientas |
 | **Supr** | Liberar |
 | **Ctrl+Z** | Deshacer |
+| **Ctrl+Y** | Rehacer (lo último que has deshecho) |
 | **Ctrl+S** | Guardar |
 
 También se maneja con un **mando**.

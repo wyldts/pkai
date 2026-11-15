@@ -78,7 +78,7 @@ Después, ábrelo desde el menú HOME.
 1. Abre PKAI Link en la consola. En su pantalla verás la **dirección**, el **puerto** y un **código** de 6 cifras.
 2. En el inicio de PKAI (PC o móvil), pulsa **Switch** o **3DS**. PKAI encuentra la consola sola en tu wifi: elígela y pulsa **Conectar**. No hace falta escribir nada (para conectar, la consola y PKAI tienen que estar en la misma wifi y con PKAI Link abierto).
    * Con PKAI Link 0.3.2 o anterior, escribe también el código que sale en su pantalla; al conectar, PKAI te ofrece actualizarlo.
-   * Si no la encuentra (por ejemplo, con PKAI Link 0.2.5 o anterior, o con algunas wifi de invitados), escribe tú la dirección y el código que salen en su pantalla.
+   * Si no la encuentra (algunas wifi de invitados no dejan buscar en toda la red), escribe tú la dirección que sale en su pantalla y pulsa **Conectar**: PKAI se lo pregunta directamente y, con PKAI Link 0.3.3 o más nuevo, tampoco hace falta el código. Con PKAI Link 0.2.5 o anterior, escribe la dirección y el código.
 3. Verás tus partidas. **Abrir** la trae a PKAI; **Copias…** enseña sus copias de seguridad; **Guardar en…** la copia a una carpeta de tu PC o de tu móvil (la de tu emulador, la de otro editor o la que quieras), con su nombre de siempre (`main`, `partida.sav`…). La partida de la consola no cambia, y si en esa carpeta ya había un archivo con el mismo nombre, se queda como `.anterior`.
 
 <table>
