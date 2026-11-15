@@ -119,7 +119,8 @@ sdmc:/PKAI/
 
 - En la Switch, cada copia lleva delante el **usuario** de la consola; en la 3DS, la del cartucho lleva «Cartucho - ».
 - Detrás va la fecha y, si se lo pusiste, su nombre.
-- Desde PKAI puedes **abrir** cualquier copia, **compararla** con la partida actual, **restaurarla** en la consola (antes se guarda una copia de la actual) o **guardarla** en una carpeta de tu PC o de tu móvil.
+- Desde PKAI puedes **abrir** cualquier copia, **compararla** con la partida actual, **restaurarla** en la consola (antes se guarda una copia de la actual), **guardarla** en una carpeta de tu PC o de tu móvil o **borrarla** (te pregunta antes).
+- **Borrar copias en la consola:** en la ventana de copias, elige una y **mantén pulsado Y** un par de segundos. Si sueltas antes, no se borra.
 
 <table>
   <tr>
