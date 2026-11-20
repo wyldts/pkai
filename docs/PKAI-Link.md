@@ -120,6 +120,7 @@ sdmc:/PKAI/
 - En la Switch, cada copia lleva delante el **usuario** de la consola; en la 3DS, la del cartucho lleva «Cartucho - ».
 - Detrás va la fecha y, si se lo pusiste, su nombre.
 - Desde PKAI puedes **abrir** cualquier copia, **compararla** con la partida actual, **restaurarla** en la consola (antes se guarda una copia de la actual), **guardarla** en una carpeta de tu PC o de tu móvil o **borrarla** (te pregunta antes).
+- **Restaurar copias en la consola,** sin PC ni móvil: en la ventana de copias, elige una y **mantén pulsado A** un par de segundos. Antes se guarda una copia de la partida actual, llamada «Antes de restaurar», por si quieres volver atrás. Si sueltas antes, no se cambia nada.
 - **Borrar copias en la consola:** en la ventana de copias, elige una y **mantén pulsado Y** un par de segundos. Si sueltas antes, no se borra.
 
 <table>
@@ -159,6 +160,8 @@ Al conectar la consola, si hay una versión nueva, PKAI enseña **Actualizar PKA
 | Arriba / abajo | Arriba / abajo | Elegir partida |
 | A | A | Hacer una copia (antes puedes ponerle nombre con el teclado) |
 | X | X | Ver sus copias |
+| Mantener A (en sus copias) | Mantener A (en sus copias) | Restaurar esa copia en la partida |
+| Mantener Y (en sus copias) | Mantener Y (en sus copias) | Borrar esa copia |
 | Y | Y | Copiar todas las partidas Pokémon |
 | R | R | Carpetas de la SD con partidas sueltas |
 | − | SELECT | Buscar las partidas otra vez |
