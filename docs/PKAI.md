@@ -135,12 +135,16 @@ Pulsa **Asistente** en la pantalla de cajas y escríbele (o díctale con el micr
 | «Añade todos los Pokémon de intercambio y de regalo desde la caja 10» | Los pone uno de cada en los huecos libres (solo si caben todos). |
 | «Añádeme todos los Pikachu de evento» · «todos los eventos de Mew» | Los añade de una vez, uno de cada evento, en los huecos libres. |
 | «Rellena la Living Dex de formas» | Crea legales todas las formas que faltan, de una vez. |
+| «Pon todos los Unown en la caja 5» | Crea todas las formas de esa especie de una vez, en orden. |
 | «Quiero volver a enfrentarme a Mewtwo» | Lo hace volver a aparecer en el juego. |
 | «Dame el código para compartir mi Lucario» · «Añade este Pokémon: PKAI1.…» | Te da el código, o lo lee, lo pasa a tu juego y lo añade si es legal. |
 | «Dame 99 caramelos raros» · «Ponme 100000 de dinero» | Lo hace al momento. |
 | «¿Qué he cambiado?» | Compara con lo que había al abrir la partida. |
 | «Ordena las cajas por número de Pokédex» | Las ordena. |
 | «Junta mis Pokémon para que no queden huecos, menos la caja de los Unown» | Los junta desde la primera caja sin tocar las cajas que le digas. |
+| «Cambia el idioma del juego a español» | Cambia el idioma de la partida, en los juegos que lo permiten. |
+| «Ponle mi nombre de entrenador a todos» | Cambia el entrenador de tus Pokémon sin dejarlos ilegales. |
+| «Libera todos mis Pokémon» | Te los enseña y los libera todos con un solo «sí». |
 
 - Lo grande lo hace de golpe: cientos de Pokémon en un solo paso y peticiones con varias cosas seguidas («rellena la Living Dex, añade los eventos de Mew y ordénalo todo»). Si algo no se puede (por ejemplo, no cabe), hace lo demás y te dice qué ha faltado.
 - Antes de hacer algo que cambia muchos Pokémon de golpe, o que los dejaría ilegales, te pide que lo confirmes.
