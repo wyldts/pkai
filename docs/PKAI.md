@@ -136,6 +136,7 @@ Pulsa **Asistente** en la pantalla de cajas y escríbele (o díctale con el micr
 | «Añádeme todos los Pikachu de evento» · «todos los eventos de Mew» | Los añade de una vez, uno de cada evento, en los huecos libres. |
 | «Rellena la Living Dex de formas» | Crea legales todas las formas que faltan, de una vez. |
 | «Pon todos los Unown en la caja 5» | Crea todas las formas de esa especie de una vez, en orden. |
+| «Añade los que me faltan en versión alfa, de la caja 25 en adelante» | Los crea alfa y legales, en orden y desde esa caja. |
 | «Quiero volver a enfrentarme a Mewtwo» | Lo hace volver a aparecer en el juego. |
 | «Dame el código para compartir mi Lucario» · «Añade este Pokémon: PKAI1.…» | Te da el código, o lo lee, lo pasa a tu juego y lo añade si es legal. |
 | «Dame 99 caramelos raros» · «Ponme 100000 de dinero» | Lo hace al momento. |
